@@ -26,8 +26,8 @@ Consuma meno di 1 watt, quindi il costo della corrente dovrebbe essere all'incir
 2) #### processore ch340 NodeMcu v3  (2.95$)
    https://it.aliexpress.com/item/New-Wireless-module-CH340-NodeMcu-V3-Lua-WIFI-Internet-of-Things-development-board-based-ESP8266/32549862093.html
  
-3) #### cavetti (0.89$)
-   https://it.aliexpress.com/item/Free-Shipping-80pcs-dupont-cable-jumper-wire-dupont-line-female-to-female-dupont-line-20cm-1P/701588771.html
+3) #### cavetti (0.60$)
+   https://it.aliexpress.com/item/40pcs-lot-10cm-2-54mm-1pin-Female-to-Female-jumper-wire-Dupont-cable/32378478740.html
  
 4) #### sensore temperatura/umidita' DHT22 (2.32$)
    https://it.aliexpress.com/item/1pcs-DHT22-digital-temperature-and-humidity-sensor-Temperature-and-humidity-module-AM2302-replace-SHT11-SHT15-Free/1059369726.html
