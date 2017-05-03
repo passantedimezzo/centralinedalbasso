@@ -10,6 +10,8 @@ va poi montata seguendo le istruzioni,
 piazzata sul balcone, terrazzo o finestra, a tiro di wifi 
 e attaccata alla corrente.
 Consuma meno di 1 watt, quindi il costo della corrente dovrebbe essere all'incirca di un paio di euro all'anno.
+
+![Centraline dal Basso](https://github.com/passantedimezzo/centralinedalbasso/blob/master/C83zbN_WAAAclAG.jpg)
  
 ## Le istruzioni per il montaggio le trovi qui 
   https://twitter.com/passantedimezzo/status/850919842333036544
