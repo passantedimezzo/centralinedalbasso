@@ -16,6 +16,11 @@ Consuma meno di 1 watt, quindi il costo della corrente dovrebbe essere all'incir
  
 ## Le istruzioni per il montaggio le trovi qui 
   https://twitter.com/passantedimezzo/status/850919842333036544
+  
+### update: sono disponibili i firmware in italiano e inglese
+  - firmware italiano: https://www.madavi.de/sensor/update/data/latest_it.bin
+  - firmware inglese: https://www.madavi.de/sensor/update/data/latest_en.bin
+  
  
 ## Lista della spesa per centralina pm10 pm2.5
  
