@@ -37,3 +37,7 @@ Consuma meno di 1 watt, quindi il costo della corrente dovrebbe essere all'incir
  
 4) #### sensore temperatura/umidita' DHT22 (2.32$)
    https://it.aliexpress.com/item/1pcs-DHT22-digital-temperature-and-humidity-sensor-Temperature-and-humidity-module-AM2302-replace-SHT11-SHT15-Free/1059369726.html
+
+
+## Schema elettrico nodemcu v3 sds011
+![Schema elettrico nodemcu v3 sds011](https://github.com/passantedimezzo/centralinedalbasso/blob/master/nodemcu-v3-schaltplan-sds011.jpg)
