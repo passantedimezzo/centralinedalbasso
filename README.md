@@ -41,3 +41,22 @@ Consuma meno di 1 watt, quindi il costo della corrente dovrebbe essere all'incir
 
 ## Schema elettrico nodemcu v3 sds011
 ![Schema elettrico nodemcu v3 sds011](https://github.com/passantedimezzo/centralinedalbasso/blob/master/nodemcu-v3-schaltplan-sds011.jpg)
+
+### Collegamenti SDS011
+```
+SDS011 Pin 1 -> Pin D1 / GPIO5
+SDS011 Pin 2 -> Pin D2 / GPIO4
+SDS011 Pin 3 -> GND
+SDS011 Pin 4 -> unused
+SDS011 Pin 5 -> VU (NodeMCU v3) / VIN (NodeMCU v1,v2)
+SDS011 Pin 6 -> unused
+SDS011 Pin 7 -> unused
+```
+
+### Collegamenti DHT22
+```
+DHT22 Pin 1 -> Pin 3V3 (3.3V)
+DHT22 Pin 2 -> Pin D7 (GPIO13)
+DHT22 Pin 3 -> unused
+DHT22 Pin 4 -> Pin GND
+```
