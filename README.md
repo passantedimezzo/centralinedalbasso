@@ -60,3 +60,11 @@ DHT22 Pin 2 -> Pin D7 (GPIO13)
 DHT22 Pin 3 -> unused
 DHT22 Pin 4 -> Pin GND
 ```
+
+### Collegamenti BME280
+```
+BME280 Vcc => 3V3
+BME280 Gnd => GND
+BME280 SDA => D3
+BME280 SCL => D4
+```
