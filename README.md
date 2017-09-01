@@ -10,6 +10,7 @@ Consuma meno di 1 watt, quindi il costo della corrente dovrebbe essere all'incir
 
 - twitter: https://twitter.com/passantedimezzo
 - #centralinedalbasso: https://twitter.com/hashtag/centralinedalbasso
+- le mappe: http://bologna.maps.luftdaten.info/
 
 ![Centraline dal Basso](https://github.com/passantedimezzo/centralinedalbasso/blob/master/C83zbN_WAAAclAG.jpg)
 
