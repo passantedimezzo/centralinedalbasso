@@ -69,3 +69,6 @@ BME280 GND => GND
 BME280 SDA => D3 (GPIO0)
 BME280 SCL => D4 (GPIO2)
 ```
+
+### Pannello di configurazione
+![Pannello di configurazione](https://github.com/passantedimezzo/centralinedalbasso/blob/master/config.jpg)
