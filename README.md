@@ -72,3 +72,18 @@ BME280 SCL => D4 (GPIO2)
 
 ### Pannello di configurazione
 ![Pannello di configurazione](https://github.com/passantedimezzo/centralinedalbasso/blob/master/config.jpg)
+
+### 
+script python per leggere direttamente i valori dal sensore sds011
+
+https://gist.github.com/netmaniac/a6414149a5a09ba1ebf702ff8d5056c5
+
+es:
+```
+> sudo python nova_sensor.py
+18 Apr 2017 15:29:32.092517: PM 2.5: 9.8 μg/m^3  PM 10: 20.8 μg/m^3
+18 Apr 2017 15:29:35.087666: PM 2.5: 9.8 μg/m^3  PM 10: 20.3 μg/m^3
+18 Apr 2017 15:29:41.077433: PM 2.5: 9.8 μg/m^3  PM 10: 20.1 μg/m^3
+18 Apr 2017 15:29:44.071522: PM 2.5: 9.5 μg/m^3  PM 10: 20.1 μg/m^3
+18 Apr 2017 15:29:51.048019: PM 2.5: 9.3 μg/m^3  PM 10: 20.5 μg/m^3
+```
