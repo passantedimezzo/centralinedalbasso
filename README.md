@@ -34,7 +34,7 @@ Consuma meno di 1 watt, quindi il costo della corrente dovrebbe essere all'incir
    https://it.aliexpress.com/item/nova-PM-sensor-SDS011-High-precision-laser-pm2-5-air-quality-detection-sensor-module-Super-dust/32617788139.html
  
 2) #### processore ch340 NodeMcu v3  (2.95$)
-   https://it.aliexpress.com/item/New-Wireless-module-CH340-NodeMcu-V3-Lua-WIFI-Internet-of-Things-development-board-based-ESP8266/32549862093.html
+   https://it.aliexpress.com/item/ESP8266-CH340G-CH340-G-NodeMcu-V3-Lua-Wireless-WIFI-Module-Connector-Development-Board-Based-ESP-12E/32800966224.html
  
 3) #### cavetti (0.60$)
    https://it.aliexpress.com/item/40pcs-lot-10cm-2-54mm-1pin-Female-to-Female-jumper-wire-Dupont-cable/32378478740.html
