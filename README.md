@@ -73,6 +73,14 @@ BME280 SDA => D3 (GPIO0)
 BME280 SCL => D4 (GPIO2)
 ```
 
+### Collegamenti LCD1602
+```
+BME280 VCC => 3V3
+BME280 GND => GND
+BME280 SDA => D3 (GPIO0)
+BME280 SCL => D4 (GPIO2)
+```
+
 ### Pannello di configurazione
 ![Pannello di configurazione](https://github.com/passantedimezzo/centralinedalbasso/blob/master/config.jpg)
 
