@@ -100,3 +100,15 @@ es:
 ```
 ### Video presentazione di Jan Lutz (luftdaten.info)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hTSu_npeuuo/0.jpg)](https://www.youtube.com/watch?v=hTSu_npeuuo)
+
+### Qui tutte le puntate dell'inchiesta sul passante di bologna (le prime 3 per @Internazionale) firmate da WM2 e @vukbuk
+
+1) <a href="https://t.co/HaMI4RUYGy">https://t.co/HaMI4RUYGy</a><br><br>
+2) <a href="https://t.co/j3JM932gBt">https://t.co/j3JM932gBt</a><br><br>
+3) <a href="https://t.co/nKmKvcYbrm">https://t.co/nKmKvcYbrm</a><br><br>
+4) <a href="https://t.co/YN3DXR41de">https://t.co/YN3DXR41de</a><br><br>
+5) <a href="https://t.co/SO26PPjIKy">https://t.co/SO26PPjIKy</a><br><br>
+6) <a href="https://t.co/rBGSmjyNgL">https://t.co/rBGSmjyNgL</a><br><br>
+7) <a href="https://t.co/OVtVXEki9J">https://t.co/OVtVXEki9J</a><br><br>
+8) <a href="https://t.co/VD9NSyzbER">https://t.co/VD9NSyzbER</a></p> 
+
