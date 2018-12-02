@@ -101,6 +101,10 @@ es:
 ### Video presentazione di Jan Lutz (luftdaten.info)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hTSu_npeuuo/0.jpg)](https://www.youtube.com/watch?v=hTSu_npeuuo)
 
+
+### Video montaggio con tecnica belga utilizzando una bottiglia PET
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fxTSLfomtbU/maxresdefault.jpg)](https://www.youtube.com/watch?v=fxTSLfomtbU)
+
 ### Qui tutte le puntate dell'inchiesta sul passante di bologna (le prime 3 per @Internazionale) firmate da WM2 e @vukbuk
 
 1) <a href="https://t.co/HaMI4RUYGy">https://t.co/HaMI4RUYGy</a><br><br>
