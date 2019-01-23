@@ -39,7 +39,7 @@ Consuma meno di 1 watt, quindi il costo della corrente dovrebbe essere all'incir
 3) #### cavetti (0.60$)
    https://it.aliexpress.com/item/40pcs-lot-10cm-2-54mm-1pin-Female-to-Female-jumper-wire-Dupont-cable/32378478740.html
  
-4) #### sensore temperatura/umidita' DHT22 (2.32$)
+4) #### sensore temperatura/umidita' DHT22 (2.32$) (selezionare Type A)
    https://it.aliexpress.com/item/1pcs-DHT22-digital-temperature-and-humidity-sensor-Temperature-and-humidity-module-AM2302-replace-SHT11-SHT15-Free/1059369726.html
 
 
