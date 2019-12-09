@@ -17,7 +17,7 @@ Consuma meno di 1 watt, quindi il costo della corrente dovrebbe essere all'incir
  
 ## Le istruzioni per il montaggio le trovi qui 
 
-#### update!!!: Ora le istruzioni piu' aggiornate sono quelle in inglese reperibili qui: https://luftdaten.info/en/construction-manual/
+#### Update!!!: Ora le istruzioni piu' aggiornate sono quelle in inglese reperibili qui: https://luftdaten.info/en/construction-manual/
 In particolare ora esiste un programma piu' semplice per installare il firmware:
 
 - Windows (64-bit): https://luftdaten.info/flashtool/luftdaten-tool.zip
@@ -25,7 +25,7 @@ In particolare ora esiste un programma piu' semplice per installare il firmware:
 - Linux (64-bit): https://luftdaten.info/flashtool/luftdaten-tool.linux-x64
 - Source Code: https://github.com/opendata-stuttgart/airrohr-firmware-flasher
 
-#### update!!!: inoltre ora e' anche possibile registrare la centralina da sé qui: http://my.luftdaten.info/
+#### Update!!!: inoltre ora e' anche possibile registrare la centralina da sé qui: http://my.luftdaten.info/
 
 
   http://luftdaten.info/it/traduzione-delle-istruzioni-per-il-montaggio-del-sensore-di-polveri-sottili/ (work in progress)
