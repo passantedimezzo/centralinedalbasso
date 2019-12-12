@@ -9,6 +9,7 @@ e attaccata alla corrente.
 Consuma meno di 1 watt, quindi il costo della corrente dovrebbe essere all'incirca di un paio di euro all'anno.
 
 - twitter: https://twitter.com/passantedimezzo
+- mastodon: <a rel="me" href="https://mastodon.bida.im/@passantedimezzo">mastodon.bida.im/@passantedimezzo</a>
 - #centralinedalbasso: https://twitter.com/hashtag/centralinedalbasso
 - le mappe: http://bologna.maps.luftdaten.info/
 
